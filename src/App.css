@@ -4,6 +4,13 @@
 }
 
 
+.imageLogo {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
 .titleName{
   margin: 0;
   padding: 0;
@@ -27,7 +34,7 @@
   border: none;
   padding: 10px;
   background: rgb(198, 196, 185);
-  border-radius: 60px;
+  border-radius: 50px;
 }
 
 ::placeholder {
